@@ -1,0 +1,24 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+mlflow = "*"
+jupyter = "*"
+scikit-learn = "==1.0.2"
+pandas = "*"
+seaborn = "*"
+hyperopt = "*"
+xgboost = "*"
+prefect = "==2.0b6"
+boto3 = "*"
+pyarrow = "*"
+s3fs = "*"
+notebook = "*"
+autopep8 = "*"
+
+[dev-packages]
+
+[requires]
+python_version = "3.9"
