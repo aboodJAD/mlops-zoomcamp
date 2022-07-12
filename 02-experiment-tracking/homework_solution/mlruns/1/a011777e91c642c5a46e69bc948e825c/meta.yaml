@@ -1,0 +1,15 @@
+artifact_uri: file:///home/abdalrhman/Work/mlops-zoomcamp/mlops-zoomcamp/notebooks/hw2/mlruns/1/a011777e91c642c5a46e69bc948e825c/artifacts
+end_time: 1655617203249
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+name: ''
+run_id: a011777e91c642c5a46e69bc948e825c
+run_uuid: a011777e91c642c5a46e69bc948e825c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1655617160515
+status: 3
+tags: []
+user_id: abdalrhman
